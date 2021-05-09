@@ -503,18 +503,9 @@ h5 span {
 .fire {
     padding: 0.5rem 2rem;
     font-size: xx-large;
-    color: #ffffff;
-    text-shadow:2px 2px 0 #b76e6959, -2px -2px 0 #b76e6959,
-                -2px 2px 0 #b76e6959, 2px -2px 0 #b76e6959,
-                0px 2px 0 #b76e6959,  0 -2px 0 #b76e6959,
-                -2px 0 0 , 2px 0 0 #b76e6959;
-    background: #86aecf;
-    -webkit-box-shadow: 5px 5px 0 #5c5c5c;
-    box-shadow: 5px 5px 0 #5c5c5c;
-    width: 400px;
-    margin-left: 50px;
-    margin-bottom: 0px;
-    height: 65px;
+    color: #000103;
+    font-weight: 900;
+    text-shadow: 3px 3px 0 #4399f065;
 }
 
 #page_top{
